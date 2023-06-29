@@ -30,7 +30,7 @@
 .section-6-decor-2 {
 	position: absolute;
 	top: 1px;
-right: 1px;
+	right: 1px;
 }
 .telegram {
 	position: absolute;
@@ -400,7 +400,6 @@ body {
 	transition-delay: 1400ms;
 }
 
-
 @media (prefers-reduced-motion) {
 	.hidden-l {
 		transition: none;
@@ -680,7 +679,7 @@ body {
 		rgba(255, 148, 109, 1) 0%,
 		rgba(255, 125, 104, 1) 100%
 	);
-	margin-left: 20px ;
+	margin-left: 20px;
 	width: 180px;
 	height: 68px;
 	text-align: center;
@@ -690,8 +689,6 @@ body {
 	border-radius: 10px;
 	transition: all 200ms ease-in-out;
 }
-
-
 
 .section-6-footer {
 	height: 40vh;
